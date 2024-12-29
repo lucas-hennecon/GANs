@@ -1,6 +1,6 @@
 # Generative Adversarial Networks (GANs) Project
 
-This repository contains the work done for **Data Science Lab Project 2 (IASD)**, in collaboration with **Simon Liétar** and **Ilian Benaïssa-Lejay**. The project explores **Generative Adversarial Networks (GANs)** and their variants, focusing on generating high-quality MNIST-like images.
+This repository contains the work done for **Data Science Lab Project 2 (IASD)**, in collaboration with **Simon Liétar** and **Ilian Benaïssa-Lejay**. The project explores **Generative Adversarial Networks (GANs)** and their variants, focusing on generating high-quality MNIST-like images. For a detailed presentation of the project and results, refer to the `Report.pdf` file.
 
 ## 📜 Summary
 This project evaluates and improves various GAN architectures, including:
